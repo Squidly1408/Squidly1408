@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a up and coming developer who loves to code and learn new things. <br><br>I'm working on creating a Augmentative and Alternative Communication app as well as a social media app for my school to increase collaboration.<br><br>I'm learning about mobile and web app development as well as UX and UI design.
+I'm a up and coming software engineer who loves to code and learn new things. <br><br>I'm working on creating a Augmentative and Alternative Communication app as well as a social media app for my school to increase collaboration.<br><br>I'm learning about mobile and web app development as well as UX and UI design.
 
 
 ## 🌐 Socials:
