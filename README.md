@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a up and coming software engineer who loves to code and learn new things. <br><br>I'm working on creating a Augmentative and Alternative Communication app as well as a social media app for my school to increase collaboration.<br><br>I'm learning about mobile and web app development as well as UX and UI design.
+I'm a up and coming software engineer who loves to code and learn new things. <br><br>I'm working on creating a Augmentative and Alternative Communication app as well as a social media app for my school and my local university to increase collaboration.<br><br>I'm learning about app development as well as UX and UI design.
 
 
 ## 🌐 Socials:
@@ -10,5 +10,3 @@ I'm a up and coming software engineer who loves to code and learn new things. <b
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Squidly1408&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
