@@ -9,9 +9,6 @@ As a 19 year old, I aim to go to my local university and study software engineer
 
 
 
-\
-\
-If you have any feedback or just want to reach out, please reach out to me at Squidly1408@Gmail.com
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
@@ -48,3 +45,11 @@ If you have any feedback or just want to reach out, please reach out to me at Sq
 </div>
 
 ###
+
+\
+\
+\
+\
+\
+If you have any feedback or just want to reach out, please reach out to us at Squidly1408@Gmail.com
+
