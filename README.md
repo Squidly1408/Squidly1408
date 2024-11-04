@@ -1,16 +1,17 @@
-<div align="center">
-  <img height="300" src="https://raw.githubusercontent.com/Squidly1408/Squidly1408/refs/heads/main/images/Squidly1408%20banner%20(Black%20Button%20Background).png"  />
-</div>
 
-###
+![Logo](https://raw.githubusercontent.com/Squidly1408/Squidly1408/refs/heads/main/images/Squidly1408%20banner%20(Black%20Button%20Background).png)
 
-<h1 align="left">Hi 👋! My name is Squidly1408</h1>
+## 🚀 About Me
+I'm a Software Developer at SAPHI Engineering, Who loves to code and learn all about software and electronics.
 
-###
+As a 19 year old, I aim to go to my local university and study software engineering, however in the mean time I am working on Augmentative and Alternative Communication apps and devices as well as a social media app for my school and my local university to increase collaboration.
 
-<p align="left">I'm a Software Developer at SAPHI Engineering, Who loves to code and learn all about software and electronics.<br><br>As a 19 year old, I aim to go to my local university and study software engineering, however in the mean time I am working on Augmentative and Alternative Communication apps and devices as well as a social media app for my school and my local university to increase collaboration.</p>
 
-###
+
+
+\
+\
+If you have any feedback or just want to reach out, please reach out to me at Squidly1408@Gmail.com
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
@@ -45,22 +46,5 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=autocad" height="30" alt="autocad logo"  />
 </div>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/squidly1408/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/channels/Squidly108" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Squidly1408/Squidly1408/output/snake.svg" alt="Snake animation" />
 
 ###
