@@ -6,10 +6,6 @@ I'm a Software Developer at SAPHI Engineering, Who loves to code and learn all a
 
 As a 19 year old, I aim to go to my local university and study software engineering, however in the mean time I am working on Augmentative and Alternative Communication apps and devices as well as a social media app for my school and my local university to increase collaboration.
 
-
-
-
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
   <img width="12" />
@@ -39,15 +35,9 @@ As a 19 year old, I aim to go to my local university and study software engineer
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="30" alt="adobeillustrator logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=autocad" height="30" alt="autocad logo"  />
 </div>
 
-###
-
-\
-\
 \
 \
 \
