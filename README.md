@@ -41,5 +41,5 @@ As a 19 year old, I aim to go to my local university and study software engineer
 \
 \
 \
-If you have any feedback or just want to reach out, please reach out to us at Squidly1408@Gmail.com
+If you have any feedback or just want to reach out, please reach out to me at Squidly1408@Gmail.com
 
