@@ -6,7 +6,15 @@ I'm a Software Developer at SAPHI Engineering, Who loves to code and learn all a
 
 As a 19 year old, I aim to go to my local university and study software engineering, however in the mean time I am working on Augmentative and Alternative Communication apps and devices as well as a social media app for my school and my local university to increase collaboration.
 
-## 🚀 Skills
+## 🚀 Projects
+<div align="center">
+  <img src="images/projects/strocoge.png"height="150" onclick="travel('https://github.com/Squidly1408/Strocoge')">
+  <img src="images/projects/luvium.png" height="150" onclick="travel('https://github.com/Squidly1408/fic')">
+  <img src="images/projects/aac_app.png" height="150" onclick="travel('https://github.com/Squidly1408/aaca')">
+  <img src="images/projects/portfolio.png" height="150" onclick="travel('https://github.com/Squidly1408/Squidly1408.github.io')">
+</div>
+
+## 📒 Skills
 <div align="center">
   <img src="images/skills/flutter.png" height="30" alt="flutter logo"  />
   <img width="12" />
@@ -48,24 +56,6 @@ As a 19 year old, I aim to go to my local university and study software engineer
   <img width="12" />
   <img src="images/skills/eagle.png" height="30" alt="autodesk eagle logo"  />
 </div>
-
-\
-
-<style>
-  .grid {
-    display: grid;
-    grid-template-columns: auto auto;
-  }
-</style>
-
-<div align="center" class="grid">
-  <img src="images/projects/strocoge.png"height="100" onclick="travel('https://github.com/Squidly1408/Strocoge')">
-  <img src="images/projects/luvium.png" height="100" onclick="travel('https://github.com/Squidly1408/fic')">
-  <img src="images/projects/aac_app.png" height="100" onclick="travel('https://github.com/Squidly1408/aaca')">
-  <img src="images/projects/portfolio.png" height="100" onclick="travel('https://github.com/Squidly1408/Squidly1408.github.io')">
-</div>
-
-
 
 \
 \
