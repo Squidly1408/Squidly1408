@@ -51,19 +51,20 @@ As a 19 year old, I aim to go to my local university and study software engineer
 
 \
 
-<style>
-.grid {
-  display: grid;
-  grid-template-columns: auto auto;
-}
-</style>
-
 <div align="center" class="grid">
   <img src="images/projects/strocoge.png" onclick="travel('https://github.com/Squidly1408/Strocoge')">
   <img src="images/projects/luvium.png" onclick="travel('https://github.com/Squidly1408/fic')">
   <img src="images/projects/aac_app.png" onclick="travel('https://github.com/Squidly1408/aaca')">
   <img src="images/projects/portfolio.png" onclick="travel('https://github.com/Squidly1408/Squidly1408.github.io')">
+  <style>
+  .grid {
+    display: grid;
+    grid-template-columns: auto auto;
+  }
+  </style>
 </div>
+
+
 
 \
 \
