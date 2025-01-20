@@ -4,14 +4,14 @@
 ## 🖐️ About Me
 I'm a Software Developer at SAPHI Engineering, Who loves to code and learn all about software and electronics.
 
-As a 19 year old, I aim to go to my local university and study software engineering, however in the mean time I am working on Augmentative and Alternative Communication apps and devices as well as a social media app for my school and my local university to increase collaboration.
+I go to my local university and study my Bachelor of Software Engineering, however in the mean time I am working on Augmentative and Alternative Communication apps and devices as well as a social media app for my university. I am also developing a tool to aid developers in quick tasks that may be a headache to to do over and over again or tasks that you would've needed to write a quick script for or go to a dodgy website.
 
 ## 🚀 Projects
 <div align="center">
   <img src="images/projects/strocoge.png"height="150" onclick="travel('https://github.com/Squidly1408/Strocoge')">
   <img src="images/projects/luvium.png" height="150" onclick="travel('https://github.com/Squidly1408/fic')">
   <img src="images/projects/aac_app.png" height="150" onclick="travel('https://github.com/Squidly1408/aaca')">
-  <img src="images/projects/portfolio.png" height="150" onclick="travel('https://github.com/Squidly1408/Squidly1408.github.io')">
+  <img src="images/projects/portfolio.png" height="150" onclick="travel('https://github.com/Squidly1408/Squidly-s_Folder_Tools')">
 </div>
 
 ## 📒 Skills
