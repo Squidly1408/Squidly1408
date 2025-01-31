@@ -12,6 +12,8 @@ I go to my local university and study my Bachelor of Software Engineering, howev
   <img src="images/projects/luvium.png" height="150" onclick="travel('https://github.com/Squidly1408/fic')">
   <img src="images/projects/aac_app.png" height="150" onclick="travel('https://github.com/Squidly1408/aaca')">
   <img src="images/projects/portfolio.png" height="150" onclick="travel('https://github.com/Squidly1408/Squidly-s_Folder_Tools')">
+  <img src="images/projects/BPE-flower.png" height="150" onclick="travel('https://github.com/Squidly1408/BPE-Flower')">
+  
 </div>
 
 ## 📒 Skills
