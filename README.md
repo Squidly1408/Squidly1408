@@ -1,9 +1,9 @@
 ![Logo](https://raw.githubusercontent.com/Squidly1408/Squidly1408/refs/heads/main/images/Squidly1408%20banner%20(Black%20Button%20Background).png)
 
 ## 🦑 About Me
-I'm a Software Developer at SAPHI Engineering, Who loves to code and learn all about software and electronics.
+I'm a level 2 Software Engineer at SAPHI Engineering, Who loves to code and learn all about software and electronics.
 
-I go to my local university and study my Bachelor of Software Engineering, however in the mean time I am working on Augmentative and Alternative Communication apps and devices as well as a social media app for my university. I am also developing a tool to aid developers in quick tasks that may be a headache to to do over and over again or tasks that you would've needed to write a quick script for or go to a dodgy website.
+I go to my local university and study my Bachelor of Software Engineering, however in the mean time I am working on Augmentative and Alternative Communication apps and devices as well as a social media app for my university, and a mutlitude of other projects.
 
 ## 🚀 Projects
 <div align="center">
