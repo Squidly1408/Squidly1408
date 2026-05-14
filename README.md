@@ -11,21 +11,21 @@ I enjoy building scalable systems, creating polished user experiences, and devel
 ## 🚀 Projects
 
 <div align="center">
-    <h1>Big Picture Education Australia Portfolio Creator Platform</h1>
-    <h1>Big Picture Education Australia IBPLC Flower Graph</h1>
-    <h1>Luvium – Project Collaboration / Research Social Platform</h1>
-    <h1>Internship Location Web App</h1>
-    <h1>NuConSoft App</h1>
-    <h1>Family Health History App</h1>
-    <h1>AI Voice Assistant with Custom Commands</h1>
-    <h1>YOLOv7 Vehicle Detection and Counting System</h1>
-    <h1>YOLOv7 Number Detection System</h1>
-    <h1>YOLOv8 Auto Annotator for Images and Videos</h1>
-    <h1>Flutter Development Workflow GUI Tool</h1>
-    <h1>Jira Ticket Dashboard / Testing Workflow Tool</h1>
-    <h1>Portfolio Website</h1>
-    <h1>Designer Portfolio Section Library</h1>
-    <h1>Network IP Logger / Scanner</h1>
+    <p>Big Picture Education Australia Portfolio Creator Platform</p>
+    <p>Big Picture Education Australia IBPLC Flower Graph</p>
+    <p>Luvium – Project Collaboration / Research Social Platform</p>
+    <p>Internship Location Web App</p>
+    <p>NuConSoft App</p>
+    <p>Family Health History App</p>
+    <p>AI Voice Assistant with Custom Commands</p>
+    <p>YOLOv7 Vehicle Detection and Counting System</p>
+    <p>YOLOv7 Number Detection System</p>
+    <p>YOLOv8 Auto Annotator for Images and Videos</p>
+    <p>Flutter Development Workflow GUI Tool</p>
+    <p>Jira Ticket Dashboard / Testing Workflow Tool</p>
+    <p>Portfolio Website</p>
+    <p>Designer Portfolio Section Library</p>
+    <p>Network IP Logger / Scanner</p>
   
 </div>
 
