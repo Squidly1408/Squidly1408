@@ -1,17 +1,32 @@
 ![Logo](https://raw.githubusercontent.com/Squidly1408/Squidly1408/refs/heads/main/images/Squidly1408%20banner%20(Black%20Button%20Background).png)
 
 ## 🦑 About Me
-I'm a level 2 Software Engineer at SAPHI Engineering, Who loves to code and learn all about software and electronics.
+Software Engineer | AI Developer | University Research Lead
 
-I go to my local university and study my Bachelor of Software Engineering, however in the mean time I am working on Augmentative and Alternative Communication apps and devices as well as a social media app for my university, and a mutlitude of other projects.
+I’m a Software Engineering student at the University of Newcastle, Australia, and a Software Engineer with experience in full-stack development, AI systems, computer vision, Flutter applications, and research-focused software projects.
+
+I enjoy building scalable systems, creating polished user experiences, and developing technology that solves real-world problems. My work ranges from AI-powered computer vision systems and embedded hardware projects to large-scale educational web platforms and portfolio systems.
 
 ## 🚀 Projects
 <div align="center">
-  <img src="images/projects/strocoge.png"height="150" onclick="travel('https://github.com/Squidly1408/Strocoge')">
-  <img src="images/projects/luvium.png" height="150" onclick="travel('https://github.com/Squidly1408/fic')">
-  <img src="images/projects/aac_app.png" height="150" onclick="travel('https://github.com/Squidly1408/aaca')">
-  <img src="images/projects/portfolio.png" height="150" onclick="travel('https://github.com/Squidly1408/Squidly-s_Folder_Tools')">
-  <img src="images/projects/BPE-flower.png" height="150" onclick="travel('https://github.com/Squidly1408/BPE-Flower')">
+  <ul>
+    <li>Big Picture Education Australia Portfolio Creator Platform</li>
+    <li>Big Picture Education Australia IBPLC Flower Graph</li>
+    <li>Luvium – Project Collaboration / Research Social Platform</li>
+    <li>Internship Location Web App</li>
+    <li>NuConSoft App</li>
+    <li>Family Health History App</li>
+    <li>AI Voice Assistant with Custom Commands</li>
+    <li>YOLOv7 Vehicle Detection and Counting System</li>
+    <li>YOLOv7 Number Detection System</li>
+    <li>YOLOv8 Auto Annotator for Images and Videos</li>
+    <li>Flutter Development Workflow GUI Tool</li>
+    <li>Jira Ticket Dashboard / Testing Workflow Tool</li>
+    <li>Portfolio Website</li>
+    <li>Designer Portfolio Section Library</li>
+    <li>Network IP Logger / Scanner</li>
+  </ul>
+  
   
 </div>
 
