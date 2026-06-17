@@ -20,6 +20,8 @@ If you have any feedback or just want to reach out, please reach out to me at Sq
 
 [**Red Car Counter**](https://github.com/Squidly1408/Red_car_counter) - An AI-powered computer vision system using YOLO-based detection to identify, track, and count vehicles in real time with analytics and automated logging.
 
+[**AltComms**](https://github.com/Squidly1408/AltComms) - Free, open-source, offline-first AAC communication app built with Flutter. Symbol boards, keyboard & switch-scanning modes, feelings/healthcare/schedules, caregiver dashboard, fully on-device, no subscription.
+
 [**AAC App**](https://github.com/Squidly1408/aac_v4) - An assistive communication application designed to improve accessibility and support alternative communication through intuitive UI design and speech-based interaction tools.
 
 [**Flutter CLI**](https://github.com/Squidly1408/Flutter_CLI) - A developer workflow automation toolkit for Flutter projects that streamlines builds, localization generation, testing, cleaning, and deployment processes.
