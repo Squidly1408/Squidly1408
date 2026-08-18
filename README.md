@@ -14,7 +14,7 @@ If you have any feedback or just want to reach out, please reach out to me at Sq
 
 [**UConSoft**](https://github.com/Squidly1408/UConSoft) - A university-focused software platform designed to support student collaboration, project management, and scalable educational tooling with a modern full-stack architecture.
 
-[**Luvium**](https://github.com/Squidly1408/fic) - A collaborative social and research platform focused on connecting students, supporting project collaboration, and creating a shared environment for innovation and communication.
+[**Luvium**](https://github.com/Squidly1408/fic) - A collaborative social and research platform focused on connecting students, supporting project collaboration, and creating a shared environment for innovation and communication. - [**[LIVE LINK]**](https://luvium-chc.github.io/)
 
 [**BPE Flower**](https://github.com/Squidly1408/BPE-Flower) - An interactive IBPLC flower graph system for Big Picture Education Australia featuring live editing, SVG exporting, embedded modes, and customizable visual themes. - [**[LIVE LINK]**](https://www.bigpicture.org.au/what-international-big-picture-learning-credential)
 
@@ -35,6 +35,7 @@ If you have any feedback or just want to reach out, please reach out to me at Sq
 [**Bindary**](https://github.com/Squidly1408/Bindary) - Turn completed tasks into short poems, saved to a private Firebase-backed library. React + Vite. - [**[LIVE LINK]**](https://squidly1408.github.io/pages/Bindary/)
 
 [**Squids-GiftList**](https://github.com/Squidly1408/squids-giftlist) - Gift-list web app, create lists for any occasion, share a link, and let people claim gifts without spoiling the surprise. React + TypeScript + Firebase. - [**[LIVE LINK]**](https://squids-giftlist.web.app/)
+
 
 
 ## Skills ⚒️
