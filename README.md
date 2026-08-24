@@ -2,7 +2,7 @@
 
 # Squidly1408 🦑
 
-**Software Engineering (Honours) Student @ University of Newcastle | Software Developer with Industry Experience**
+**Software Engineering (Honours) Student @ University of Newcastle // Software Developer with Industry Experience**
 
 I’m a Software Engineering student at the University of Newcastle, Australia, and a Software Engineer with experience in full-stack development, AI systems, computer vision, Flutter applications, and research-focused software projects.
 
