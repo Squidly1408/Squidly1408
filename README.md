@@ -26,13 +26,13 @@ If you have any feedback or just want to reach out, please reach out to me at Sq
 
 [**Flutter CLI**](https://github.com/Squidly1408/Flutter_CLI) - A developer workflow automation toolkit for Flutter projects that streamlines builds, localization generation, testing, cleaning, and deployment processes.
 
-[**SQDLC-CAD**](https://squidly1408.github.io/pages/SQDLC-CAD) - A free, browser-based 3D modeling / CAD tool. No sign-up, no account, no server — everything runs and is stored entirely on your machine, in your browser. - [**[LIVE LINK]**](https://squidly1408.github.io/pages/SQDLC-CAD/)
+[**SQDLC-CAD**](https://github.com/Squidly1408/SQDLC-CAD) - A free, browser-based 3D modeling / CAD tool. No sign-up, no account, no server — everything runs and is stored entirely on your machine, in your browser. - [**[LIVE LINK]**](https://squidly1408.github.io/apps/SQDLC-CAD/)
 
-[**Furni4**](https://github.com/Squidly1408/furni4) - Draw a room or building to scale, furnish it with accurately-sized objects, and preview the result in 3D. Built with Next.js (App Router), TypeScript, Tailwind CSS, Zustand, Konva (2D canvas), and React Three Fiber (3D preview). - [**[LIVE LINK]**](https://squidly1408.github.io/pages/Furni4/)
+[**Furni4**](https://github.com/Squidly1408/furni4) - Draw a room or building to scale, furnish it with accurately-sized objects, and preview the result in 3D. Built with Next.js (App Router), TypeScript, Tailwind CSS, Zustand, Konva (2D canvas), and React Three Fiber (3D preview). - [**[LIVE LINK]**](https://squidly1408.github.io/apps/Furni4/)
 
-[**Traceboard**](https://github.com/Squidly1408/Traceboard) - A browser-based image-to-SVG tracing application built with native web technologies. Traceboard provides precision Bézier curve editing, freehand drawing, automatic image tracing, and clean SVG export, all without a backend, frameworks, or build tools. - [**[LIVE LINK]**](https://squidly1408.github.io/pages/TraceBoard/)
+[**Traceboard**](https://github.com/Squidly1408/Traceboard) - A browser-based image-to-SVG tracing application built with native web technologies. Traceboard provides precision Bézier curve editing, freehand drawing, automatic image tracing, and clean SVG export, all without a backend, frameworks, or build tools. - [**[LIVE LINK]**](https://squidly1408.github.io/apps/TraceBoard/)
 
-[**Bindary**](https://github.com/Squidly1408/Bindary) - Turn completed tasks into short poems, saved to a private Firebase-backed library. React + Vite. - [**[LIVE LINK]**](https://squidly1408.github.io/pages/Bindary/)
+[**Bindary**](https://github.com/Squidly1408/Bindary) - Turn completed tasks into short poems, saved to a private Firebase-backed library. React + Vite. - [**[LIVE LINK]**](https://bindary-books.web.app/)
 
 [**Squids-GiftList**](https://github.com/Squidly1408/squids-giftlist) - Gift-list web app, create lists for any occasion, share a link, and let people claim gifts without spoiling the surprise. React + TypeScript + Firebase. - [**[LIVE LINK]**](https://squids-giftlist.web.app/)
 
