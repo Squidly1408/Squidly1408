@@ -16,7 +16,7 @@ If you have any feedback or just want to reach out, please reach out to me at Sq
 
 [**Luvium**](https://github.com/Squidly1408/fic) - A collaborative social and research platform focused on connecting students, supporting project collaboration, and creating a shared environment for innovation and communication. - [**[LIVE LINK]**](https://luvium-chc.github.io/)
 
-[**BPE Flower**](https://github.com/Squidly1408/BPE-Flower) - An interactive IBPLC flower graph system for Big Picture Education Australia featuring live editing, SVG exporting, embedded modes, and customizable visual themes. - [**[LIVE LINK]**](https://www.bigpicture.org.au/what-international-big-picture-learning-credential)
+[**BPL Flower**](https://github.com/Squidly1408/BPL-Flower) - An interactive IBPLC flower graph system for Big Picture Education Australia featuring live editing, SVG exporting, embedded modes, and customizable visual themes. - [**[LIVE LINK]**](https://www.bigpicture.org.au/what-international-big-picture-learning-credential)
 
 [**BPLIO**](https://github.com/Squidly1408/bplio) - BPLIO is a modern portfolio and student showcase platform built for Big Picture Education Australia, designed to help students create professional, IBPLC-aligned digital portfolios with an intuitive and designer-focused experience. - [**[LIVE LINK]**](https://bplio-learning.web.app/)
 
@@ -38,7 +38,7 @@ If you have any feedback or just want to reach out, please reach out to me at Sq
 
 [**PHOTOLIO**](https://github.com/Squidly1408/Photolio) - A light-table style builder for photography portfolios. Preview the finished one-page site at desktop, tablet, or mobile width. Sign in to save your work to the cloud and publish it at a public URL — /portfolio/your-username. - [**[LIVE LINK]**](https://photolio-portfolio.web.app/)
 
-
+[**BPL-Slides**](https://github.com/Squidly1408/bpl-slides) - A fully client-side, offline-capable slideshow builder for Big Picture Learning students. Covers thing like Gateway projects, Senior Projects, typical projects, and blank slides, has the capability for math, CAD files, Images, videos, embedded websites, etc, etc. - [**[LIVE LINK]**](https://bpl-slides.web.app/)
 
 ## Skills ⚒️
 
