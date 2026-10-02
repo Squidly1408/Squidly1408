@@ -16,7 +16,7 @@ If you have any feedback or just want to reach out, please reach out to me at Sq
 
 [**Luvium**](https://github.com/Squidly1408/fic) - A collaborative social and research platform focused on connecting students, supporting project collaboration, and creating a shared environment for innovation and communication. - [**[LIVE LINK]**](https://luvium-chc.github.io/)
 
-[**BPE Flower**](https://github.com/Squidly1408/BPE-Flower) - An interactive IBPLC flower graph system for Big Picture Education Australia featuring live editing, SVG exporting, embedded modes, and customizable visual themes. - [**[LIVE LINK]**](https://www.bigpicture.org.au/what-international-big-picture-learning-credential)
+[**BPL Flower**](https://github.com/Squidly1408/BPL-Flower) - An interactive IBPLC flower graph system for Big Picture Education Australia featuring live editing, SVG exporting, embedded modes, and customizable visual themes. - [**[LIVE LINK]**](https://www.bigpicture.org.au/what-international-big-picture-learning-credential)
 
 [**BPLIO**](https://github.com/Squidly1408/bplio) - BPLIO is a modern portfolio and student showcase platform built for Big Picture Education Australia, designed to help students create professional, IBPLC-aligned digital portfolios with an intuitive and designer-focused experience. - [**[LIVE LINK]**](https://bplio-learning.web.app/)
 
@@ -26,18 +26,23 @@ If you have any feedback or just want to reach out, please reach out to me at Sq
 
 [**Flutter CLI**](https://github.com/Squidly1408/Flutter_CLI) - A developer workflow automation toolkit for Flutter projects that streamlines builds, localization generation, testing, cleaning, and deployment processes.
 
-[**SQDLC-CAD**](https://squidly1408.github.io/pages/SQDLC-CAD) - A free, browser-based 3D modeling / CAD tool. No sign-up, no account, no server — everything runs and is stored entirely on your machine, in your browser. - [**[LIVE LINK]**](https://squidly1408.github.io/pages/SQDLC-CAD/)
+[**SQDLC-CAD**](https://github.com/Squidly1408/SQDLC-CAD) - A free, browser-based 3D modeling / CAD tool. No sign-up, no account, no server — everything runs and is stored entirely on your machine, in your browser. - [**[LIVE LINK]**](https://squidly1408.github.io/apps/SQDLC-CAD/)
 
-[**Furni4**](https://github.com/Squidly1408/furni4) - Draw a room or building to scale, furnish it with accurately-sized objects, and preview the result in 3D. Built with Next.js (App Router), TypeScript, Tailwind CSS, Zustand, Konva (2D canvas), and React Three Fiber (3D preview). - [**[LIVE LINK]**](https://squidly1408.github.io/pages/Furni4/)
+[**Furni4**](https://github.com/Squidly1408/furni4) - Draw a room or building to scale, furnish it with accurately-sized objects, and preview the result in 3D. Built with Next.js (App Router), TypeScript, Tailwind CSS, Zustand, Konva (2D canvas), and React Three Fiber (3D preview). - [**[LIVE LINK]**](https://squidly1408.github.io/apps/Furni4/)
 
-[**Traceboard**](https://github.com/Squidly1408/Traceboard) - A browser-based image-to-SVG tracing application built with native web technologies. Traceboard provides precision Bézier curve editing, freehand drawing, automatic image tracing, and clean SVG export, all without a backend, frameworks, or build tools. - [**[LIVE LINK]**](https://squidly1408.github.io/pages/TraceBoard/)
+[**Traceboard**](https://github.com/Squidly1408/Traceboard) - A browser-based image-to-SVG tracing application built with native web technologies. Traceboard provides precision Bézier curve editing, freehand drawing, automatic image tracing, and clean SVG export, all without a backend, frameworks, or build tools. - [**[LIVE LINK]**](https://squidly1408.github.io/apps/TraceBoard/)
 
-[**Bindary**](https://github.com/Squidly1408/Bindary) - Turn completed tasks into short poems, saved to a private Firebase-backed library. React + Vite. - [**[LIVE LINK]**](https://squidly1408.github.io/pages/Bindary/)
+[**Bindary**](https://github.com/Squidly1408/Bindary) - Turn completed tasks into short poems, saved to a private Firebase-backed library. React + Vite. - [**[LIVE LINK]**](https://bindary-books.web.app/)
 
 [**Squids-GiftList**](https://github.com/Squidly1408/squids-giftlist) - Gift-list web app, create lists for any occasion, share a link, and let people claim gifts without spoiling the surprise. React + TypeScript + Firebase. - [**[LIVE LINK]**](https://squids-giftlist.web.app/)
 
 [**PHOTOLIO**](https://github.com/Squidly1408/Photolio) - A light-table style builder for photography portfolios. Preview the finished one-page site at desktop, tablet, or mobile width. Sign in to save your work to the cloud and publish it at a public URL — /portfolio/your-username. - [**[LIVE LINK]**](https://photolio-portfolio.web.app/)
 
+<<<<<<< HEAD
+=======
+[**BPL-Slides**](https://github.com/Squidly1408/bpl-slides) - A fully client-side, offline-capable slideshow builder for Big Picture Learning students. Covers thing like Gateway projects, Senior Projects, typical projects, and blank slides, has the capability for math, CAD files, Images, videos, embedded websites, etc, etc. - [**[LIVE LINK]**](https://bpl-slides.web.app/)
+
+>>>>>>> cc9aa073689abaa5e7809949820f45153a08d165
 ## Skills ⚒️
 
 Java, Dart, Flutter, HTML, CSS, Javascript, XML, PHP, Python, MicroPython, Github, Git, RaspberryPi, Adafruit, Arduino, Visual Studio COde, Visual Studio, Fusion 360, Autodesk Eagle, YoloV7, YoloV8
