@@ -1,4 +1,4 @@
-![Logo](../images/LachlanMartin-Banner.png)
+![Logo](../images/banners/LachlanMartin-Banner.png)
 
 # Lachlan Martin
 
