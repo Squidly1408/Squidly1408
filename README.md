@@ -38,11 +38,7 @@ If you have any feedback or just want to reach out, please reach out to me at Sq
 
 [**PHOTOLIO**](https://github.com/Squidly1408/Photolio) - A light-table style builder for photography portfolios. Preview the finished one-page site at desktop, tablet, or mobile width. Sign in to save your work to the cloud and publish it at a public URL — /portfolio/your-username. - [**[LIVE LINK]**](https://photolio-portfolio.web.app/)
 
-# <<<<<<< HEAD
-
 [**BPL-Slides**](https://github.com/Squidly1408/bpl-slides) - A fully client-side, offline-capable slideshow builder for Big Picture Learning students. Covers thing like Gateway projects, Senior Projects, typical projects, and blank slides, has the capability for math, CAD files, Images, videos, embedded websites, etc, etc. - [**[LIVE LINK]**](https://bpl-slides.web.app/)
-
-> > > > > > > cc9aa073689abaa5e7809949820f45153a08d165
 
 ## Skills ⚒️
 
