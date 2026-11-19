@@ -1,6 +1,6 @@
 ![Logo](./images/banners/Squidly1408/v02.png)
 
-# Squidly1408 🦑
+# **Squidly1408** 🦑
 
 **Software Engineering (Honours) Student @ University of Newcastle // Software Developer with Industry Experience**
 
