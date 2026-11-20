@@ -34,11 +34,10 @@ If you have any feedback or just want to reach out, please reach out to me at Sq
 
 [**Bindary**](https://github.com/Squidly1408/Bindary) - Turn completed tasks into short poems, saved to a private Firebase-backed library. React + Vite. - [**[LIVE LINK]**](https://bindary-books.web.app/)
 
-[**Squids-GiftList**](https://github.com/Squidly1408/squids-giftlist) - Gift-list web app, create lists for any occasion, share a link, and let people claim gifts without spoiling the surprise. React + TypeScript + Firebase. - [**[LIVE LINK]**](https://squids-giftlist.web.app/)
-
-[**PHOTOLIO**](https://github.com/Squidly1408/Photolio) - A light-table style builder for photography portfolios. Preview the finished one-page site at desktop, tablet, or mobile width. Sign in to save your work to the cloud and publish it at a public URL — /portfolio/your-username. - [**[LIVE LINK]**](https://photolio-portfolio.web.app/)
-
 [**BPL-Slides**](https://github.com/Squidly1408/bpl-slides) - A fully client-side, offline-capable slideshow builder for Big Picture Learning students. Covers thing like Gateway projects, Senior Projects, typical projects, and blank slides, has the capability for math, CAD files, Images, videos, embedded websites, etc, etc. - [**[LIVE LINK]**](https://bpl-slides.web.app/)
+
+[**MarkX**](https://github.com/Squidly1408/MarkX) - A small grade planner for university units. Enter your assessments, their weights and the marks you've got back so far, and markx works out where you stand and what you still need on the remaining pieces to hit your target grade (Pass, Credit, Distinction, High Distinction). [**[LIVE LINK]**](https://squidly1408.github.io/apps/markx/), [**[LIVE LINK / UoN Version]**](https://squidly1408.github.io/apps/markx/UoN/)
+
 
 ## Other Projects by Section
 
