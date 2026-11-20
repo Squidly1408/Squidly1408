@@ -40,6 +40,20 @@ If you have any feedback or just want to reach out, please reach out to me at Sq
 
 [**BPL-Slides**](https://github.com/Squidly1408/bpl-slides) - A fully client-side, offline-capable slideshow builder for Big Picture Learning students. Covers thing like Gateway projects, Senior Projects, typical projects, and blank slides, has the capability for math, CAD files, Images, videos, embedded websites, etc, etc. - [**[LIVE LINK]**](https://bpl-slides.web.app/)
 
+## Other Projects by Section
+
+- [♿ Accessibility & Communication](https://github.com/Squidly1408/Project-Hub#-accessibility--communication) (4)
+- [🎓 Education & Study](https://github.com/Squidly1408/Project-Hub#-education--study) (13)
+- [🤖 AI & Computer Vision](https://github.com/Squidly1408/Project-Hub#-ai--computer-vision) (10)
+- [🎨 Creative & Media Tools](https://github.com/Squidly1408/Project-Hub#-creative--media-tools) (11)
+- [📱 Mobile Apps](https://github.com/Squidly1408/Project-Hub#-mobile-apps) (5)
+- [🗂️ Productivity & Everyday Life](https://github.com/Squidly1408/Project-Hub#-productivity--everyday-life) (6)
+- [🛠️ Developer Tools](https://github.com/Squidly1408/Project-Hub#-developer-tools) (9)
+- [🔌 Hardware & Embedded](https://github.com/Squidly1408/Project-Hub#-hardware--embedded) (3)
+- [🎮 Games, Toys & Visual Experiments](https://github.com/Squidly1408/Project-Hub#-games-toys--visual-experiments) (12)
+- [🌐 Portfolios & Websites](https://github.com/Squidly1408/Project-Hub#-portfolios--websites) (7)
+- [📚 Collections & Archives](https://github.com/Squidly1408/Project-Hub#-collections--archives) (2)
+
 ## Skills ⚒️
 
 Java, Dart, Flutter, HTML, CSS, Javascript, XML, PHP, Python, MicroPython, Github, Git, RaspberryPi, Adafruit, Arduino, Visual Studio COde, Visual Studio, Fusion 360, Autodesk Eagle, YoloV7, YoloV8
